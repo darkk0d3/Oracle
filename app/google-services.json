@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "158665403484",
+    "project_id": "oracle-android-57225",
+    "storage_bucket": "oracle-android-57225.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158665403484:android:56e4db515dbc3adb274a99",
+        "android_client_info": {
+          "package_name": "com.oracle.mrt3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158665403484-q0tp7lijeh49r494dnikp1urq494nj3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oracle.mrt3",
+            "certificate_hash": "8e5d0ab3ae4eeb19995497550d5a5b3436961e03"
+          }
+        },
+        {
+          "client_id": "158665403484-m5l5r2cdb8b5dtfpr28i0n8atalj358v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNbV5I2jAdsBOemYdtNbW1SgDdzAWBAUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158665403484-m5l5r2cdb8b5dtfpr28i0n8atalj358v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

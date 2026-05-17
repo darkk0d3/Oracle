@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Never commit google-services.json with real credentials!
+# app/google-services.json
+
+# Project exclude paths
+/app/build/
+/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/

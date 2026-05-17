@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oracle</string>
+    <!--
+        REQUIRED FOR GOOGLE SIGN-IN:
+        1. Open your google-services.json
+        2. Find the oauth_client with "client_type": 3
+        3. Copy its "client_id" value here
+    -->
+    <string name="default_web_client_id">158665403484-m5l5r2cdb8b5dtfpr28i0n8atalj358v.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./gradlew installDebug)",
+      "Bash(./gradlew clean *)",
+      "Bash(python3 *)",
+      "Bash(python *)",
+      "Bash(./gradlew assembleDebug)",
+      "Bash(adb -s emulator-5554 install -r \"C:\\\\Users\\\\Elsha\\\\Desktop\\\\Shawn\\\\oracle-mrt3-osm\\\\app\\\\build\\\\outputs\\\\apk\\\\debug\\\\app-debug.apk\")",
+      "Bash(adb -s emulator-5554 shell monkey -p com.oracle.mrt3 -c android.intent.category.LAUNCHER 1)",
+      "Bash(xargs -I {} bash -c 'echo \"=== {} ===\" && wc -l {}')"
+    ]
+  }
+}
