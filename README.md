@@ -1,7 +1,6 @@
 # Oracle — MRT-3 Commuter Guide (OSMDroid Edition)
 ### Android App · Kotlin + Jetpack Compose · OpenStreetMap
 
-> **No Google Maps API key required.** This version uses [OSMDroid](https://github.com/osmdroid/osmdroid) backed by OpenStreetMap (Mapnik) tiles — completely free and open source.
 
 ---
 
@@ -27,7 +26,7 @@ oracle-mrt3/
 │   │   │   │       ├── MainScreen.kt
 │   │   │   │       ├── HomeScreen.kt
 │   │   │   │       ├── FareScreen.kt
-│   │   │   │       ├── MapScreen.kt        ← OSMDroid (no API key!)
+│   │   │   │       ├── MapScreen.kt        ← OSMDroid 
 │   │   │   │       ├── EmergencyScreen.kt
 │   │   │   │       ├── ProfileScreen.kt
 │   │   │   │       └── AccountSettingsScreen.kt
@@ -40,7 +39,7 @@ oracle-mrt3/
 │   │   ├── res/values/{strings,themes}.xml
 │   │   └── AndroidManifest.xml
 │   ├── build.gradle.kts
-│   └── google-services.json              ← REPLACE with real file
+│   └── google-services.json            
 ├── gradle/libs.versions.toml
 ├── build.gradle.kts
 ├── settings.gradle.kts
